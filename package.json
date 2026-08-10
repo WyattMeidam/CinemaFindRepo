@@ -1,0 +1,12 @@
+{
+  "name": "cinemafind-webhook",
+  "version": "1.0.0",
+  "description": "Plain Express fulfillment for the CinemaFind Dialogflow agent (HW3) - host on Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
